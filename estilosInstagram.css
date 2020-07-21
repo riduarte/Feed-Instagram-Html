@@ -1,0 +1,49 @@
+/**Estilos**/
+body{
+    background-color: black;
+    margin: 0;
+}
+
+header h1{
+    background-color: floralwhite;
+    text-align: center;
+    margin: 0;
+    padding: 5px;
+    
+}
+.box-gobal{
+    background-color: darkgrey;
+    margin: auto;
+    width: 80%;
+}
+.titulo-foto{
+    padding: 10px;
+    overflow: hidden;
+}
+.titulo-foto h3{
+    float: left;
+    margin: 0;
+    font-size: 14px;
+}
+.titulo-foto span{
+    float: right;
+    color: grey;
+    font-size: 10px;
+}
+.box-photo{
+    width: 400px;
+    margin-bottom: 20px;
+    border-radius: 2%;
+    margin: auto;
+    background-color:whitesmoke;
+    margin-top: 20px;
+}
+.photo img{
+    max-width: 400px;   
+}
+.footer-foto p{
+    overflow: hidden;
+    font-size: 10px;
+    
+    margin: 0;
+    padding:0px 0px 10px 10px;}
